@@ -155,5 +155,5 @@ EOF  all  create  destroy  help  quit  show  update
 
 
 ## Authors
-Yohanes Getinet - [Github](https://github.com/Andualem-Andy) / [LinkedIn](https://www.linkedin.com/andualem-asamenew-691b12116/)  
+Andualem Asamenew - [Github](https://github.com/Andualem-Andy) / [LinkedIn](https://www.linkedin.com/andualem-asamenew-691b12116/)  
 
